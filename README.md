@@ -1,6 +1,3 @@
-# Machine-learning-project
-
-
 # Loan Default Prediction System
 
 # 🔹 Overview
