@@ -6,37 +6,37 @@ This project develops a loan default prediction system using a dataset of 32,587
 # 🔹 Methodology
  - Preprocessing
 
-Missing value imputation
+   Missing value imputation
 
-Categorical encoding
+   Categorical encoding
 
-Feature scaling
+   Feature scaling
 
-SMOTE balancing to address class imbalance
+   SMOTE balancing to address class imbalance
 
 - Algorithms Implemented
 
-Decision Tree
+  Decision Tree
 
-Random Forest
+  Random Forest
 
-K-Nearest Neighbors (KNN)
+  K-Nearest Neighbors (KNN)
 
-Naive Bayes
+  Naive Bayes
 
 - Evaluation
 
-Train-test splits
+  Train-test splits
 
-K-fold cross-validation
+  K-fold cross-validation
 
-Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
+  Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 - Overfitting Analysis
 
-Training vs. test accuracy comparisons
+  Training vs. test accuracy comparisons
 
-Gap visualizations to detect overfitting
+  Gap visualizations to detect overfitting
 
 # 🔹 Results
 The models were compared across multiple metrics to identify the most effective classifier for loan default prediction. Random Forest showed strong performance, but each algorithm’s strengths and weaknesses were analyzed.
